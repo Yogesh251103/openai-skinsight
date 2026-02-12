@@ -1,6 +1,6 @@
 # SkinSight - Product Showcase Website
 
-A clean, modern, and aesthetic React website to showcase the SkinSight product. This is a presentation-style website with no backend or mobile app code - just a beautiful frontend showcase.
+A clean, and modern React website to showcase the SkinSight product. This is a presentation-style website with no backend or mobile app code - just a beautiful frontend showcase.
 
 ## 🚀 Quick Start
 
